@@ -1,0 +1,2 @@
+# nunubot
+Discord Bot
