@@ -27,4 +27,4 @@ client.on(`mesage`, (msg) => {
 
 })
 
-client.login(BOT_TOKEN);
+client.login(config.token)
